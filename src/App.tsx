@@ -1,5 +1,5 @@
 import "./App.css";
-import Podcast from "./component/PodCast";
+import Podcast from "./component/Podcast";
 
 const App = () => <Podcast />;
 export default App;
